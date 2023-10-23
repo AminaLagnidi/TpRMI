@@ -28,3 +28,5 @@ Pour G Salle
 -Gestions des Salles  
 -Communication RMI  
 -Manipulation de données distantes  
+-Opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) pour les machines    
+-Opérations CRUD pour les salles  
