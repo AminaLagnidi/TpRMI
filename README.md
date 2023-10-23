@@ -18,13 +18,13 @@ Pour G Salle
 ![gestion salle 3](https://github.com/AminaLagnidi/TpRMI/assets/146132357/38b2bdfd-91bf-46b8-9f46-1f8c9c1455c2)
 ![gestion salle 2](https://github.com/AminaLagnidi/TpRMI/assets/146132357/290a81a5-961d-45bf-b0ea-d7120641c1f7)
 ## Technologies utilisées
--Java 
--MySQL pour créer la base de donnée "dbmachine"
--Hibernate 
--RMI pour la communication entre client et server
+-Java   
+-MySQL pour créer la base de donnée "dbmachine"  
+-Hibernate   
+-RMI pour la communication entre client et server  
 ## Fonctionnalités
--Interface graphique Swing
--Gestion des machines
--Gestions des Salles
--Communication RMI
--Manipulation de données distantes:
+-Interface graphique Swing  
+-Gestion des machines  
+-Gestions des Salles  
+-Communication RMI  
+-Manipulation de données distantes  
